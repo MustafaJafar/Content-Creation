@@ -55,6 +55,10 @@ Search the internet to find a problem of your choice and then solve it.
 
 ## Further Steps 
 
-To learn more about computer science, consider starting with [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) 
+- To learn more about computer science, consider starting with [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) 
 
-[![CS50](https://pll.harvard.edu/sites/default/files/styles/16_9_medium/public/course/CS50x_pll.png)](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+  [![CS50](https://pll.harvard.edu/sites/default/files/styles/16_9_medium/public/course/CS50x_pll.png)](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+
+- To learn more about python, consider courses like: 
+  - [Programming for Everybody | Coursera](https://www.coursera.org/learn/python)
+  - [The Python Mega Course | Udemy](https://www.udemy.com/course/the-python-mega-course)
