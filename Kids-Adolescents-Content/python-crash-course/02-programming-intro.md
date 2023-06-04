@@ -51,6 +51,11 @@ Not set yet.
 
 Search the internet to find a problem of your choice and then solve it.
 
+### More problems 
+
+Consider sites like [edabit](https://edabit.com/challenges)
+
+
 ---
 
 ## Further Steps 
