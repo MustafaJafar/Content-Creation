@@ -1,0 +1,10 @@
+{
+    "env": [
+        {
+            "var": "PYTHONPATH",
+            "value": "$HOUDINI_USER_PREF_DIR/packages/python;",
+            "method" : "append"
+        } 
+    ] 
+    
+}
