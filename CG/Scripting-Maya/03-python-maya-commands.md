@@ -38,5 +38,6 @@ you can find more maya python courses here
 - [zurbrigg](https://zurbrigg.com/courses)
 - [thegnomonworkshop](https://www.thegnomonworkshop.com)
 - [fxphd](https://www.fxphd.com/)
+- [pluralsight](https://www.pluralsight.com/)
 - [Linked in learning](https://www.linkedin.com/learning)
 - [Udemy](https://www.udemy.com/)

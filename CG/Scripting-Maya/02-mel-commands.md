@@ -11,5 +11,6 @@ This tutorial was presented by Autodesk, [Find it here](https://www.autodesk.com
 Although Python scripting is preferred nowadays, you can search such sites for MEL courses.
 - [thegnomonworkshop](https://www.thegnomonworkshop.com)
 - [fxphd](https://www.fxphd.com/)
+- [pluralsight](https://www.pluralsight.com/)
 - [Linked in learning](https://www.linkedin.com/learning)
 - [Udemy](https://www.udemy.com/)
