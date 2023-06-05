@@ -18,6 +18,8 @@
   - Variables I 
     - Numbers and Characters
   - Comparisons and Logic Operations
+  - Conditions
+  - Loops
   - Variables II (Sequences of data) 
     - String, List, Tuple, Dictionary
     > They can be considered as smart variables <br>
