@@ -5,7 +5,7 @@ A simple intro to RBD
 ## RBD Basic Setup
 <table border="0">
 <tr>
-<td><ol  style ="line-height: 27px;">
+<td><ol  style ="line-height: 35px;">
     <li>Object </li>
     <li>Scatter Points</li>
     <li>Fracture </li>
@@ -14,7 +14,7 @@ A simple intro to RBD
     <li>RBD Solver </li>
     </ol>
 </td>
-<td><img src = "resources/images/01-basic-setup.jpg" style = "width: 50%; height: auto;"> </td>
+<td><img src = "resources/images/01-basic-setup.jpg" </td>
 </tr>
 </table>
 
@@ -25,7 +25,7 @@ A simple intro to RBD
 - Try changing `strength` parameter in `add_constraint` node and re-simulate
 - Try adding a collision 
 
-    <img src = "resources/images/02-basic-setup-with-collision.jpg" style = "width: 50%; height: auto;"> </td>
+    <img src = "resources/images/02-basic-setup-with-collision.jpg" </td>
 
 ## RBD Walk through 
 
