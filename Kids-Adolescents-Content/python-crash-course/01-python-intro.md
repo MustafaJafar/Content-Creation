@@ -13,6 +13,7 @@
   - Install packages 
 
 - Some fun with jupyter, [*check code*](resources/01-python-intro)
+  - Comments 
   - Arithmetic Expressions
   - Input / Output
   - Variables I 
