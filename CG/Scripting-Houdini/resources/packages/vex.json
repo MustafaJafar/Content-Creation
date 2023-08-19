@@ -1,10 +1,6 @@
 {
     "env": [
-        {
-            "var": "HOUDINI_VEX_PATH",
-            "value": "$HOUDINI_USER_PREF_DIR/packages/vex;",
-            "method" : "append"
-        } 
+        {"HOUDINI_VEX_PATH": "$HOUDINI_USER_PREF_DIR/packages/vex;&"}
     ] 
     
 }
